@@ -11,6 +11,10 @@
 
   &:hover,
   &:focus {
-    color: orangered;
+    color: #03a054;
+    background-color: #03a054;
+    color: #fff;
+    border-radius: 5px;
+    padding: 5px;
   }
 }

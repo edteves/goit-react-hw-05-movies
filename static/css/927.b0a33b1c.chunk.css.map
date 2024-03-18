@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/927.b0a33b1c.chunk.css","mappings":"AAAA,8BACE,eACF","sources":["components/ReviewList/ReviewListItem/ReviewListItem.module.css"],"sourcesContent":[".author {\n  font-weight: bold;\n}\n"],"names":[],"sourceRoot":""}

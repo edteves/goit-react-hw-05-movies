@@ -1,5 +1,11 @@
 .footerText {
   text-align: center;
-  padding: 20px 0;
+  padding: 20px 0px 0px 0;
+  margin: 0;
+}
+
+.developer {
+  text-align: center;
+  padding: 0px 0px 20px 0;
   margin: 0;
 }

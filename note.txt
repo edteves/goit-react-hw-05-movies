@@ -1,0 +1,1 @@
+npm i axios react-debounce-input react-icons react-loader-spinner react-router-dom
